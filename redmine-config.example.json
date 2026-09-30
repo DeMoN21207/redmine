@@ -1,0 +1,5 @@
+{
+  "redmine_url": "https://redmine.redermio.ru",
+  "api_key": "YOUR_API_KEY",
+  "default_project_id": null
+}

@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+redmine-config.json
+.env
+cache/
